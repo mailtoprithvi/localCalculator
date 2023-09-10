@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>calculator</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.4</version>
+	<version>1.0.3</version>
 	<name>Calculator Program for Amdocs DevOps Nov Program </name>
 
 	<properties>
